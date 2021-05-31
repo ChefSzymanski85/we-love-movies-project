@@ -2,8 +2,7 @@
 Back-end project that sets up a database and builds out specific routes so that users can gain access 
 to data about movies, theaters, and reviews.
 
-![We Love Movies homepage](https://curricula.thinkful.com/curricula/c2e4bca7-bf12-4f07-a267-f21cc5dcb0db/capstone-backend-v1/assets2/zid-be-project-movie-01-qualified/home.png 
-"We Love Movies homepage")
+![We Love Movies homepage](https://curricula.thinkful.com/curricula/c2e4bca7-bf12-4f07-a267-f21cc5dcb0db/capstone-backend-v1/assets2/zid-be-project-movie-01-qualified/home.png "We Love Movies homepage")
 
 ## Features
 - Browse through your favorite movies
